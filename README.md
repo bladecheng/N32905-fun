@@ -34,3 +34,5 @@
 
 - 解决办法：强制把能打上的补丁打上，git apply --reject xxx.patch 根据生成生成的*.rej，根据*.rej把未打上的补丁打上即可
 
+### NES模拟器
+ARM9-NES
